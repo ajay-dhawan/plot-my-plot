@@ -1,0 +1,4 @@
+client/plot-my-stuff
+client/.env
+controller/node_modules
+controller/.env

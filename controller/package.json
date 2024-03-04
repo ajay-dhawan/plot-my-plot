@@ -1,0 +1,23 @@
+{
+  "name": "controller",
+  "version": "1.0.0",
+  "description": "Controller for plot my stuff client",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "author": "Ajay Dhawan <ajay.dhawan1705@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.18.3",
+    "health-check-plus": "^1.0.1",
+    "mongoose": "^8.2.0",
+    "winston": "^3.12.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "commit-hash": "5f6c6ec40989ff418de918fcf094ffcbc4d964ee"
+}
